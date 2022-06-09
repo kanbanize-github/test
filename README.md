@@ -27,3 +27,4 @@ Rnd_test_smart2
 Rnd_test_smart3
 Rnd_test_smart4
 Rnd_test_smart5
+Rnd_test_smart6
