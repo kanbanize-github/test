@@ -19,3 +19,4 @@ june2022-smart2
 june2022-smart3
 june2022-smart4
 Rnd_test1
+Rnd_test2
