@@ -31,3 +31,4 @@ Rnd_test_smart6
 Rnd_test_smart7
 Rnd_test_smart8
 Rnd_test_smart9
+alabala
