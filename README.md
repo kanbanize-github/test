@@ -78,3 +78,4 @@ regr 2023-04-06 reg8
 regr 2023-04-06 reg9
 regr 2023-04-06 
 regr 2023-04-06 reg11
+regr 2023-04-06 smart3
