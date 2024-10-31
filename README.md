@@ -1,3 +1,4 @@
+reg test 11.1 - 2
 reg test 11.1
 alalalalaa
 balal
